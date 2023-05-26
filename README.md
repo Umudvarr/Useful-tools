@@ -87,4 +87,5 @@ You can find useful informaiton here which you search.
 
 # Next button
 
-![image](https://github.com/Umudvarr/Useful-tools/assets/126266744/1ea7f380-7c59-4aac-a37e-8e3cc68c603c)
+![image](https://github.com/Umudvarr/Useful-tools/assets/126266744/1ea7f380-7c59-4aac-a37e-8e3cc68c603c)  ![image](https://github.com/Umudvarr/Useful-tools/assets/126266744/24e9aa72-2fd7-4666-bf73-482bc5f28638)
+
